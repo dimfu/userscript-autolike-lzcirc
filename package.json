@@ -1,0 +1,22 @@
+{
+    "name": "userscript-autolike-lzcirc",
+    "type": "module",
+    "version": "0.1.0",
+    "description": "Instant like every Adam LZ circle friends Youtube videos",
+    "main": "index.js",
+    "scripts": {
+        "release": "bumpp -x \node bump.js\" -all"
+    },
+    "private": true,
+    "author": "dimfu <0arcetros@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/dimfu/userscript-autolike-lzcirc#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dimfu/userscript-autolike-lzcirc.git"
+    },
+    "bugs": "https://github.com/dimfu/userscript-autolike-lzcirc/issues",
+    "devDependencies": {
+        "bumpp": "^9.1.0"
+    }
+}
